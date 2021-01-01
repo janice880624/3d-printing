@@ -1,7 +1,3 @@
----
-description: '軟體下載點 : https://ultimaker.com/software/ultimaker-cura'
----
-
 # Cura
 
 ### 👉下載軟體
@@ -58,5 +54,9 @@ M140 S0 ;Turn-off bed
 M84 X Y E ;Disable all steppers but Z
 ```
 
+### 👉介面介紹
 
+![](.gitbook/assets/image%20%2863%29.png)
+
+* 工作平台選項➡選擇 3D列印機、面板配置、列印設定
 
