@@ -58,7 +58,7 @@ M84 X Y E ;Disable all steppers but Z
 
 ![](.gitbook/assets/image%20%2863%29.png)
 
-* 工作平台選項➡選擇 3D列印機、面板配置、列印設定
+* 工作平台選項 ➡ 選擇 3D列印機、面板配置、列印設定
 
 ### 👉 填充密度
 
