@@ -3,7 +3,7 @@
 ### 👉下載軟體
 
 {% hint style="success" %}
-軟體下載[https://ultimaker.com/software/ultimaker-cura](https://ultimaker.com/software/ultimaker-cura)
+軟體下載 [https://ultimaker.com/software/ultimaker-cura](https://ultimaker.com/software/ultimaker-cura)
 {% endhint %}
 
 ![](.gitbook/assets/image%20%2855%29.png)
