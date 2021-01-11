@@ -3,7 +3,7 @@
 ### 👉下載軟體
 
 {% hint style="success" %}
-軟體下載[https://ultimaker.com/software/ultimaker-cura](https://ultimaker.com/software/ultimaker-cura)
+軟體下載 [https://ultimaker.com/software/ultimaker-cura](https://ultimaker.com/software/ultimaker-cura)
 {% endhint %}
 
 ![](.gitbook/assets/image%20%2855%29.png)
@@ -58,21 +58,45 @@ M84 X Y E ;Disable all steppers but Z
 
 ![](.gitbook/assets/image%20%2863%29.png)
 
-* 工作平台選項➡選擇 3D列印機、面板配置、列印設定
+* 工作平台選項 ➡ 選擇 3D列印機、面板配置、列印設定
 
 ### 👉 填充密度
 
 **填充密度會影響列印件的強度和重量**
 
-![](.gitbook/assets/image%20%2865%29.png)
+![](.gitbook/assets/image%20%2868%29.png)
 
-![](.gitbook/assets/image%20%2867%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 ### 👉 切層厚度
 
 **切層厚度會影響列印成品的細緻程度**
 
+![](.gitbook/assets/image%20%2869%29.png)
+
 ![](.gitbook/assets/image%20%2866%29.png)
 
-![](.gitbook/assets/image%20%2864%29.png)
+### 👉 支撐
+
+**根據列印品去選擇是否開啟支撐**
+
+![](.gitbook/assets/image%20%2865%29.png)
+
+### 👉 筏板
+
+這個底座的目的是希望讓3D模型可以更好地粘貼在打印平台上，防止3D模型出現翹邊的問題。另一方面，如過模型底部的面積很小的話，加上raft後也可以增強這個模型粘貼在打印平台上的程度。一般來講當3D打印完畢以後，只有把模型底部的raft直接移除就搞定。
+
+![](.gitbook/assets/image%20%2873%29.png)
+
+
+
+### 👉 附著
+
+{% hint style="info" %}
+更多參數設定[https://3dmart.com.tw/news/ultimaker-cura2.1-printing-software-guide](https://3dmart.com.tw/news/ultimaker-cura2.1-printing-software-guide)
+{% endhint %}
+
+{% hint style="info" %}
+故障排除參考[https://z3dfilament.blogspot.com/2019/01/3dproblem.html](https://z3dfilament.blogspot.com/2019/01/3dproblem.html)
+{% endhint %}
 
